@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Assesment3</string>
+    <string name="app_name">MyHotWheels</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">LogOut</string>
+    <string name="tambah_hotwheel">Tambah HotWheel</string>
+    <string name="nama">Nama</string>
+    <string name="edisi">Edisi</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="pesan_hapus">Apakah anda yakin untuk hapus?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="no_data">Silahkan tambahkan foto koleksi HotWheels anda</string>
 </resources>
